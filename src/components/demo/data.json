@@ -1,0 +1,263 @@
+{
+    "meta": {
+        "statusCode": 200,
+        "message": "Successful",
+        "pagination": {
+            "totalItems": 8,
+            "itemCount": 8,
+            "itemsPerPage": 10,
+            "totalPages": 1,
+            "currentPage": 1
+        }
+    },
+    "data": [
+        {
+            "id": 12,
+            "code": "333114",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "Tan. D 1",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 2,
+            "createdAt": "2023-03-11T11:37:13.000Z",
+            "updatedAt": "2023-03-11T11:37:13.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 2,
+                "name": "FAN",
+                "description": "fan",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 11,
+            "code": "929076",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "tan d9",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T11:22:58.000Z",
+            "updatedAt": "2023-03-11T11:22:58.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 10,
+            "code": "609423",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "asd",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T06:15:50.000Z",
+            "updatedAt": "2023-03-11T06:15:50.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 9,
+            "code": "991743",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "tan d5",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T06:14:48.000Z",
+            "updatedAt": "2023-03-11T06:14:48.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 8,
+            "code": "941468",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "tan d5",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T06:14:47.000Z",
+            "updatedAt": "2023-03-11T06:14:47.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 7,
+            "code": "821013",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "tan d4",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T06:14:03.000Z",
+            "updatedAt": "2023-03-11T06:14:03.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 6,
+            "code": "723556",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "tan D3",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T06:13:38.000Z",
+            "updatedAt": "2023-03-11T06:13:38.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        },
+        {
+            "id": 5,
+            "code": "165327",
+            "pinIndex": null,
+            "esp32Id": null,
+            "name": "tan D3",
+            "config": null,
+            "control": 0,
+            "status": -1,
+            "farmId": 11,
+            "typeId": 1,
+            "createdAt": "2023-03-11T06:11:02.000Z",
+            "updatedAt": "2023-03-11T06:11:02.000Z",
+            "farm": {
+                "id": 11,
+                "name": "farm 4",
+                "plantId": 1,
+                "area": 100,
+                "userId": 13,
+                "envId": 57,
+                "createdAt": "2023-03-10T04:32:10.000Z",
+                "updatedAt": "2023-03-10T04:32:10.000Z"
+            },
+            "type": {
+                "id": 1,
+                "name": "LED",
+                "description": "led",
+                "createdAt": "2023-02-22T03:25:23.000Z",
+                "updatedAt": "2023-02-22T03:25:23.000Z"
+            }
+        }
+    ]
+}
