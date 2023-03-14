@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import "../styles/Landing.styles.css"
 import styled from "styled-components"
 import { OutLineTransparent, Filled } from "../components/Button.styles"
 import { Box, Overlay } from "../components/Landing.styles"
